@@ -1,4 +1,4 @@
-# 🌐 Discord Translation Bot
+# <a href="https://emoji.gg/emoji/5542-discord-clyde-gif"><img src="https://cdn3.emoji.gg/emojis/5542-discord-clyde-gif.gif" width="64px" height="64px" alt="discord_clyde_gif"></a> Discord Translation Bot
 
 A Discord bot that translates messages into multiple languages using flag emoji reactions! Powered by [discord.py](https://github.com/Rapptz/discord.py) and [googletrans](https://github.com/ssut/py-googletrans).
 
