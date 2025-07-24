@@ -1,4 +1,4 @@
-# [![discord_clyde](https://cdn3.emoji.gg/emojis/7561-discord-clyde.png)](https://emoji.gg/emoji/7561-discord-clyde) Discord Translation Bot
+#  <img width="64" height="64" alt="Discord Logo Emojis (1)" src="https://github.com/user-attachments/assets/df6268f9-0c93-4401-af63-5691efa0e71f" /> Discord Translation Bot
 
 A Discord bot that translates messages into multiple languages using flag emoji reactions! Powered by [discord.py](https://github.com/Rapptz/discord.py) and [googletrans](https://github.com/ssut/py-googletrans).
 
