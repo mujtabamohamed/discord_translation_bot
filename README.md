@@ -1,6 +1,4 @@
-# discord_translation_bot
-
-# 🌐 Translation Bot
+# 🌐 Discord Translation Bot
 
 A Discord bot that translates messages into multiple languages using flag emoji reactions! Powered by [discord.py](https://github.com/Rapptz/discord.py) and [googletrans](https://github.com/ssut/py-googletrans).
 
