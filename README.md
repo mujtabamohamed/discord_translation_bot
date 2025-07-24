@@ -1,4 +1,4 @@
-# <img width="38" height="38" alt="Discord Logo" align="center" src="https://github.com/user-attachments/assets/65aa64ff-f812-4da0-92ce-e43620829e4a" /> <span>Discord Translation Bot</span>
+# <img width="50" height="50" alt="Discord Logo" align="center" src="https://github.com/user-attachments/assets/65aa64ff-f812-4da0-92ce-e43620829e4a" /> <span>Discord Translation Bot</span>
 
 A Discord bot that translates messages into multiple languages using flag emoji reactions! Powered by [discord.py](https://github.com/Rapptz/discord.py) and [googletrans](https://github.com/ssut/py-googletrans).
 
